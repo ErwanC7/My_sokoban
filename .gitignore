@@ -1,0 +1,12 @@
+# Files
+vgcore.*
+*.o
+*.gcno
+*.gcna
+*.a
+
+# Binaries
+my_sokoban
+a.out
+unit_tests
+maps/
